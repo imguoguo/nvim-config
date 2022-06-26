@@ -1,7 +1,6 @@
 return require('packer').startup(function()
     use 'wbthomason/packer.nvim'
     use 'mfussenegger/nvim-dap'
-    use 'yamatsum/nvim-nonicons'
     use 'luochen1990/rainbow'
     use 'jiangmiao/auto-pairs'
     use 'vim-airline/vim-airline-themes'
