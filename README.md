@@ -8,5 +8,5 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 # Fetch Configuration
 
 ```
-git clone https://github.com/imguoguo/nvim-config ~/.config/nvim
+git clone --recursive https://github.com/imguoguo/nvim-config ~/.config/nvim
 ```
